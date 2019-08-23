@@ -1,0 +1,1 @@
+# gitlab-ci-base-config
